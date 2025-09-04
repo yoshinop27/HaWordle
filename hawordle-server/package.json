@@ -1,0 +1,10 @@
+{
+  "name": "hawordle-server",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "seed": "node seed/seed/seed.js",
+    "start": "node index.js"
+  }
+}
